@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pPbZvgrT9z9ans98bKiRXbY9JXf0PeA5K5I7QaYGiLjOHAXN5kiQhV1uzcQJM76q2/NkuP4rOr+8O+ySnc14EQ==",
+  "dgSpecHash": "xqVLqXyRGOIgQxKLmWTC4JDhUNx4Fatev6reD4CQYPkPgyCtxN5BJlkWy+eUIj6va+b7Y5GlSVv+eMhFfgSzZg==",
   "success": true,
   "projectFilePath": "/Users/lucasrodrigues/dev/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/lucasrodrigues/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/lucasrodrigues/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.net.test.sdk/17.3.2/microsoft.net.test.sdk.17.3.2.nupkg.sha512",

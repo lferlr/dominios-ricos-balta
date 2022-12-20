@@ -1,5 +1,3 @@
-using System.Runtime.InteropServices.JavaScript;
-
 namespace PaymentContext.Domain.Entities
 {
   public class Subscription
