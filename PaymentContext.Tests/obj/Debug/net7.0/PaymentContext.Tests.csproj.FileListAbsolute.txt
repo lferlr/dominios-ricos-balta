@@ -101,3 +101,4 @@
 /Users/lucasrodrigues/dev/PaymentContext/PaymentContext.Tests/bin/Debug/net7.0/PaymentContext.Shared.dll
 /Users/lucasrodrigues/dev/PaymentContext/PaymentContext.Tests/bin/Debug/net7.0/PaymentContext.Shared.pdb
 /Users/lucasrodrigues/dev/PaymentContext/PaymentContext.Tests/bin/Debug/net7.0/PaymentContext.Domain.pdb
+/Users/lucasrodrigues/dev/PaymentContext/PaymentContext.Tests/bin/Debug/net7.0/Flunt.dll

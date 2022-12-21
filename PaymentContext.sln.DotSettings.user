@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=646eb55c_002D4c5b_002D4fb7_002D8321_002D58624abcb148/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnErrorWhenHadActiveSubscription" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::AD9B2141-4F70-47A8-8EE8-CA7FF5E326A1::net7.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscription&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::AD9B2141-4F70-47A8-8EE8-CA7FF5E326A1::net7.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenSubscriptionHasNoPayment&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
