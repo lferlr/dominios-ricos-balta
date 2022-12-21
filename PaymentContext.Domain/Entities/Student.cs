@@ -42,6 +42,8 @@ namespace PaymentContext.Domain.Entities
         .AreNotEquals(0, subscription.Payment.Count, "Student.Subscription.Payments", "Essa assinatura não possui pagamentos")
       ); 
 
+      if (Valid)
+        _subscriptions.Add(subscription);
       // Outra alternativa de Notificação
       // if (hasSubscriptionActive)
       //   AddNotification("Student.Subscriprions", "Você já tem uma assinatura ativa");
