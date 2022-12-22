@@ -1,8 +1,10 @@
+using Flunt.Notifications;
 using PaymentContext.Domain.Enums;
+using PaymentContext.Shared.Commands;
 
 namespace PaymentContext.Domain.Commands;
 
-public class CreateBoletoSubscriptionCommand
+public class CreateBoletoSubscriptionCommand : Notifiable, ICommand
 {
     // Student
     public string FirstName { get; set; }
@@ -36,4 +38,8 @@ public class CreateBoletoSubscriptionCommand
     public string State { get; set; }
     public string Country { get; set; }
     public string ZipCode { get; set; }
+
+    public void Validate()
+    {
+    }
 }
