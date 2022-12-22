@@ -10,7 +10,7 @@ public class Address : ValueObject
         Street = street;
         Number = number;
         Neighborhood = neighborhood;
-        City = city;
+        City = city; 
         State = state;
         Country = country;
         ZipCode = zipCode;
