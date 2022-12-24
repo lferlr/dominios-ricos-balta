@@ -3,5 +3,7 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;MSTest::AD9B2141-4F70-47A8-8EE8-CA7FF5E326A1::net7.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscription&lt;/TestId&gt;
     &lt;TestId&gt;MSTest::AD9B2141-4F70-47A8-8EE8-CA7FF5E326A1::net7.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenSubscriptionHasNoPayment&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::AD9B2141-4F70-47A8-8EE8-CA7FF5E326A1::net7.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::AD9B2141-4F70-47A8-8EE8-CA7FF5E326A1::net7.0::PaymentContext.Tests.Queries.StudentQueriesTests.ShouldReturnNullWhenDocumentNotExists&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
